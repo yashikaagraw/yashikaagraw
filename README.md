@@ -1,7 +1,7 @@
 
 <body style="font-family: Arial, sans-serif; line-height: 1.5; margin: 0; padding: 20px;">
   <header>
-    <h1 style="color: #333;">Hi 👋 My name is Yashika Agrawal</h1>
+    <h1 style="color: #333;">Hi 👋 I'm Yashika Agrawal</h1>
     <h2 style="color: #333;"> A passionate and detail-oriented web developer. Welcome to my GitHub profile!</h2>
    
   </header>
@@ -35,7 +35,7 @@
     <h3 style="color: #333;">🌱 Learning Goals</h3>
     <p>I like to improve myself and follow new technologies, read articles about them. So I'm familiar with a lot of technology and libraries..</p>
   </section>
-  
+
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidkhan263187&label=Profile%20views&color=0e75b6&style=flat" alt="abidkhan263187" /> </p>
   <section>
@@ -69,7 +69,7 @@
  
   <p>
     
-![](https://github-readme-stats.vercel.app/api?username=abidkhan263187&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=abidkhan263187&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abidkhan263187&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abidkhan263187&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -106,7 +106,9 @@
 
 
   <footer>
-    <h2 align="center">Let's build something amazing together! 🚀</h2>
+    <h2 align="center">I Hate Programming. I Hate Programming.It works! I Love Programming.
+
+ 🚀</h2>
   </footer>
 </body>
 
