@@ -7,7 +7,7 @@
   </header>
     </header>
     </br>
-     🚀 Portfolio :https://github.com/yashikaagraw/https-yashikaagraw.github.io
+     🚀 Portfolio : https://yashikaagraw.github.io
 
 
  - 📄 Know about me [Resume](Resume Google drive link)
