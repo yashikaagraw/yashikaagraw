@@ -7,12 +7,7 @@
   </header>
     </header>
     </br>
-     🚀 Portfolio : https://yashikaagraw.github.io
-
-
- - 📄 Know about me <a href= "https://drive.google.com/file/d/1RQrBs59oGvBx5TDvjtaRrwgin-Y9pHC1/view?usp=sharing">[Resume]</a>
-<img align="right" height=300 width=350 src="https://camo.githubusercontent.com/7aa780f97d51af2b67ff9ca2afa89ef67907c7b21abe9c7f8fb63fa707cf629a/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632"/>
-  <section>
+   
     <h3 style="color: #333;">💻 Technologies and Skills</h3>
     <ul>
       <li> 💻 Front-end: React.js, Redux.js ,HTML5, CSS3, JavaScript, ES6, Chakra</li>
@@ -28,7 +23,7 @@
       <li><a href="project2-link">Project 2</a> - Brief description of the project and your role.</li>
       <li><a href="project3-link">Project 3</a> - Brief description of the project and your role.</li>
     </ul>
-    <p>You can find more of my projects on my <a href="portfolio-link">portfolio website</a>!</p>
+
   </section> -->
 
   <section>
